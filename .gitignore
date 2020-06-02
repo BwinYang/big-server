@@ -1,0 +1,7 @@
+# .gitigonre 忽略git上传文件
+
+# 忽略第三方插件
+/node_modules
+
+# 忽略初始化文件
+/package-lock.json
